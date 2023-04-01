@@ -1,0 +1,17 @@
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.deps.json
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.pdb
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ERicaretAPI.Domain.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ERicaretAPI.Domain.pdb
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfo.cs
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CopyComplete
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\refint\ETicaretAPI.Persistence.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll

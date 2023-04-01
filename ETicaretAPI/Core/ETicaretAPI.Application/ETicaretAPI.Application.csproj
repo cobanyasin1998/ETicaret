@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ERicaretAPI.Domain\ERicaretAPI.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

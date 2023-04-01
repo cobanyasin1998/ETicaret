@@ -1,0 +1,12 @@
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\bin\Debug\net6.0\ERicaretAPI.Domain.deps.json
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\bin\Debug\net6.0\ERicaretAPI.Domain.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\bin\Debug\net6.0\ERicaretAPI.Domain.pdb
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\obj\Debug\net6.0\ERicaretAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\obj\Debug\net6.0\ERicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\obj\Debug\net6.0\ERicaretAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\obj\Debug\net6.0\ERicaretAPI.Domain.AssemblyInfo.cs
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\obj\Debug\net6.0\ERicaretAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\obj\Debug\net6.0\ERicaretAPI.Domain.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\obj\Debug\net6.0\refint\ERicaretAPI.Domain.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\obj\Debug\net6.0\ERicaretAPI.Domain.pdb
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ERicaretAPI.Domain\obj\Debug\net6.0\ref\ERicaretAPI.Domain.dll

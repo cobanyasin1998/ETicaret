@@ -1,0 +1,15 @@
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.deps.json
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ERicaretAPI.Domain.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ERicaretAPI.Domain.pdb
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.AssemblyReference.cache
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfo.cs
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CopyComplete
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\refint\ETicaretAPI.Application.dll
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\coban\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net6.0\ref\ETicaretAPI.Application.dll
