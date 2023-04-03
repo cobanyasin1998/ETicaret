@@ -314,7 +314,8 @@
       },
       "ETicaretAPI.Application/1.0.0": {
         "dependencies": {
-          "ERicaretAPI.Domain": "1.0.0"
+          "ERicaretAPI.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.3"
         },
         "runtime": {
           "ETicaretAPI.Application.dll": {}

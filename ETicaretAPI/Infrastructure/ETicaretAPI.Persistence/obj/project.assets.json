@@ -525,7 +525,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "ERicaretAPI.Domain": "1.0.0"
+          "ERicaretAPI.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.3"
         },
         "compile": {
           "bin/placeholder/ETicaretAPI.Application.dll": {}
