@@ -1,10 +1,25 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { LayoutComponent } from './admin/layout/layout.component';
 
-const routes: Routes = [];
+const routes: Routes = [
+  {
+    path: 'admin',
+    component: LayoutComponent,
+    children: [
+      {
+        path: 'customers',
+        loadChildren: () =>
+          import('./admin/components/customer/customer.module').then(
+            (m) => m.CustomerModule
+          ),
+      },
+    ],
+  },
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}
