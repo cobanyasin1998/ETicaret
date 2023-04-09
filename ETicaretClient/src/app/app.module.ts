@@ -4,6 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { UiModule } from './ui/ui.module';
+import { AdminModule } from './admin/admin.module';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { UiModule } from './ui/ui.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    UiModule
+    UiModule,
+    AdminModule
   ],
   providers: [],
   bootstrap: [AppComponent]
